@@ -2,7 +2,7 @@
 HTML5
 CSS3
 BootStrap4
-Javascript
+JavascriptES6
 Jquery
 Angular8 (Typescript, Angular Framework) 
 Git Source Control
