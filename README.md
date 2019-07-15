@@ -9,3 +9,13 @@ Git Source Control
 Angular Application Deployment
 Angular Unit Testing.
 
+12-July-201
+
+=============================
+Covered basic steps in git
+Introduction to HTML, CSS, Javascript, Bootstrap & Angular.
+
+15-Jul-2019
+=============================
+HTML page introduction
+HTML Elements & Tags
