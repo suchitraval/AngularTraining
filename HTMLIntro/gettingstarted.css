@@ -1,0 +1,13 @@
+.hyperlinkCss {
+    color: green;
+    font-weight: bold;
+    text-decoration: none;
+}
+#dummy {
+    color: blue;
+    font-weight: bold;
+    text-decoration: none;
+}
+hr {
+    border: 1px solid darkorange;
+}
