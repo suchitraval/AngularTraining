@@ -9,6 +9,12 @@ Git Source Control
 Angular Application Deployment
 Angular Unit Testing.
 
+Coding Standards
+PASCAL casing:
+
+        
+Camel Casing
+
 12-July-201
 
 =============================
@@ -24,5 +30,14 @@ HTML Elements & Tags Part -I
 ==============================
 HTML Elements & Tags Part -II
 Cascading Style Sheets Introduction
+
+20-Jul-2019
+===============================
+CSS Selectors
+Simple Selectors
+Attribute Selectors
+Psuedo Classes & Psuedo Elements
+Combination & Multiple Selectors
+
 
 

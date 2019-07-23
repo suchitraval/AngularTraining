@@ -1,0 +1,26 @@
+/*
+    Universal Selector
+    Simple selector demo 
+*/
+
+* {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.simpleClassSelector {
+    color: blue;
+    font-size: 14px;
+    font-weight: bold;
+}
+#simpleIDSelector {
+    color: red;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+span {
+    color: green;
+    font-size: 14px;
+    font-weight: bold;
+}
